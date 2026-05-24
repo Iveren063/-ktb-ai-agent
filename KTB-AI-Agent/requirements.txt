@@ -1,3 +1,4 @@
-python-dotenv
-tavily-python
 streamlit
+tavily-python
+groq
+python-dotenv
